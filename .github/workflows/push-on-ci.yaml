@@ -3,7 +3,8 @@ name: push-on-ci
 on:
   push:
     branches:
-      - ci
+      - main
+      #- ci
 
 
 jobs:
